@@ -1,0 +1,40 @@
+#!/bin/bash
+
+#
+#                              MMMMMM                                            
+#                         MMMMMMMMMMMMMMMM       =?                              
+#                      MMMMMMMMMZZZZMMMMMMMMMMMMMMMMMM?                          
+#                    MMMMMMMZZZZZZZZZZZZZNMMMMMZZZZZOMMM                         
+#                  MMMMMMZZZZZZZZMMMMZZZMMZZZZZMMMMMMMMMM                        
+#                MMMMMMZZZZZZZMMMMMZZZZZZZDMMMMMMMMMMMMMM                        
+#              MMMMMMMZZZZZZZMMMMMZZZZZMMMMMMMZZMMMMMMMMM                        
+#            MMMMMMMMZNMMZZZMZZMMZZZZZMMZZZZMMZZM MMMMMMMMM                      
+#          MMMMMMMMMMMMZZZZZZZZZMZZZZZZMMMZZZMZZZMMMMMMZMMMMMM                   
+#        MMMMMMMMMMMMMZZZZZZZZZZZZZZZMMMZZZZZZZZMZZZ8MMMZZZMMMMMMM               
+#      MMMM   MMMMMMMMZZZZZZZZZZZZMMMMMMMZZZMMZZZZMMMMZZZZZZZZDMMMMMMM           
+#           MMMMMMMMMZZZZZZZZZZZZZZZZZZZZZZZZMMMZZZZZZZZZZZZZZZZZZZMMMMMM        
+#         MMMMMMMMMZMZZZZZZZZMZZZZZZZZZZZZZZMZZMMMZZZZZZZZZZZZZZZZZZZZZMMMM      
+#        MMMMMMMMMMZMZZZZZZZZMZZZZZZZZZZZZZZMZZMMMMMZZZZZZZZZZZZZZZZZZZMMMM      
+#      MMMM  MMMMMZZZMZZZZZZMMZZZZZZZZZZZZZZMZZMMMMMMMMZZZZZZZZZZZZZZZMMMMM      
+#     M    MMMMMMMZZZZZZZZZZMMMZZZZZZZZZZZZZMMMMMMMMMMMMMZZZZZZZZZZZZZMMZMM      
+#        MMMMMMMMMMZZZZZZZZZMMMMZZZZZZZZZZZZMMMMMMMMMMMMMMMMZZZZZZZZZZZMZMM$     
+#       MM   MMMMMMZZZZZZZZZMMMMMZZZZZZZZZZZZMMMMZMMMMMM MMMMMMZZZZZZZZZZMMM     
+#          ?MMMMMMMMZZZZZZZZMMZZZMZZZZZZZZZZZZMMMMZOMMMMMMM~M MMMMMMMMMZZMM      
+#         MMMMM MMMMMZZZZZZZZMMZZZZZMZZZZZZZZZZZZDMMZZZMMMMMMMMZMM MMMMMMMM      
+#        MMM   MMMMMMMZZZZZZZZZMZZZZOMMZZZZZZZZZZZZZZZZZZZZMMMMMMMMMMMMMMM       
+#       M    OMMMMMMMMMZZZZZZZZZZZZZZZMMMMZZZZZZOMMMMMMMMZZZZZZZZMMMMMMMM        
+#           MM  MMMMMMDZZZZZZZZZZZZZZZZMMMMMMMMMMMMMMMMMMMMMMMZZMMMMM            
+#          M  ,MMMMMMMZZZZZZZZZZZZZZZZZZZNMMMMMMMM        MMMMMMMMO              
+#             M  MMMMZZZZZZZZZZZZZZZZZZZMMMMMMM.                         rawr.
+#                MMMMMMMMZZZZZZZZZZZZZMMMMMMM+                                   
+#              MMMMMMMZZZZZZZZZZZZZZZZMZZMMM:                                    
+#              ?MMMZZNMMZZZZZZZZZZZZMZZZZMMM                                     
+#                MMMMZZZZZZZZZZZZZZZZMMMOMM                                      
+#                  MMMMZZZZZZZZZZZZZZZMMMMM                                      
+#                    MMMMZZZZZZZZZZMZZZMMMM                                      
+#                      MMMMMMZZZZZZZMMMMMM                                       
+#                         MMMMMMMMMMZMMMMM                                       
+#                              MMMMMMMMMMM                                       
+#                                                                                
+#
+
